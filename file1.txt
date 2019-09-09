@@ -1,3 +1,4 @@
 new change1
 some text from master
 text1 in master
+change4
